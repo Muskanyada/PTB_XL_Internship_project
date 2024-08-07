@@ -1,2 +1,2 @@
-# PTB_XL_Internship_project
- My primary focus was on a project involving the PTB-XL dataset, where I applied unsupervised learning algorithms to analyze and interpret complex data patterns.
+# PTB_XL_Internship_projectr
+My project involving the PTB-XL dataset, I applied unsupervised machine learning techniques to analyze electrocardiogram (ECG) signals. Utilizing algorithms such as DBSCAN, K-Means, and Hierarchical Clustering, I aimed to identify patterns, anomalies, and meaningful clusters within the data. This project not only demonstrated the power of unsupervised learning in uncovering hidden structures in medical data but also contributed to the understanding of cardiovascular health.
