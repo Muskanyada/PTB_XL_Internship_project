@@ -103,7 +103,7 @@ Metadata includes age, gender, and diagnostic information (not used for supervis
 
 1. Clone the repository:
 
-   git clone https://github.com/Muskanyada/PTB_XL_Internship_projec.git
+   git clone https://github.com/Muskanyada/PTB_XL_Internship_project.git
 
 2. Navigate to the project directory:
 
