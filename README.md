@@ -12,7 +12,7 @@ The PTB-XL dataset is a well-known electrocardiography (ECG) dataset that contai
 
 2. Size: Over 21,000 clinical 12-lead ECG recordings
 
-3.Sampling Frequency: 500Hz
+3. Sampling Frequency: 500Hz
 
 Metadata includes age, gender, and diagnostic information (not used for supervised learning here)
 
@@ -103,19 +103,19 @@ Metadata includes age, gender, and diagnostic information (not used for supervis
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/ptb-xl-unsupervised-learning.git
+   git clone https://github.com/Muskanyada/PTB_XL_Internship_projec.git
 
 2. Navigate to the project directory:
 
-cd ptb-xl-unsupervised-learning
+   cd ptb-xl-unsupervised-learning
 
 3. Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Open Jupyter Notebook:
 
-jupyter notebook
+  jupyter notebook
 
 Run the notebooks in the notebooks/ directory.
 
