@@ -1,6 +1,7 @@
-PTB-XL Dataset Analysis Using Unsupervised Learning Algorithms:
+PTB-XL Dataset Analysis Using Unsupervised Learning Algorithms
 
-Project Overview:
+Project Overview
+
 This project involves the analysis of the PTB-XL dataset, a large-scale ECG dataset, using unsupervised learning techniques. The primary goal was to identify patterns and clusters in ECG data without the use of labeled data (i.e., no supervised learning methods were applied).
 
 Dataset Description
@@ -15,65 +16,65 @@ Sampling Frequency: 500Hz
 
 Metadata includes age, gender, and diagnostic information (not used for supervised learning here)
 
-# Objective:
+Objective
 
-1. Identify patterns and clusters in ECG data.
+Identify patterns and clusters in ECG data.
 
-2. Detect potential abnormalities or similarities between ECG samples.
+Detect potential abnormalities or similarities between ECG samples.
 
-3. Explore the underlying structure of the data using clustering algorithms.
+Explore the underlying structure of the data using clustering algorithms.
 
-# Techniques and Algorithms Used
+Techniques and Algorithms Used
 
 This project solely utilized unsupervised learning algorithms for data exploration and pattern recognition, including:
 
-1. K-Means Clustering
+K-Means Clustering
 
-2. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 
-3. Hierarchical Clustering
+Hierarchical Clustering
 
 Key Steps Involved
 
-1. Data Preprocessing:
+Data Preprocessing:
 
-2. Extraction and cleaning of ECG signal data from the PTB-XL dataset.
+Extraction and cleaning of ECG signal data from the PTB-XL dataset.
 
-3. Normalization and standardization of ECG features.
+Normalization and standardization of ECG features.
 
-4. Handling missing values and data inconsistencies.
+Handling missing values and data inconsistencies.
 
-2, Feature Engineering:
+Feature Engineering:
 
 Time-domain and frequency-domain feature extraction.
 
 Dimensionality reduction (e.g., PCA) to visualize and simplify data.
 
-3. Clustering:
+Clustering:
 
 Application of K-Means, DBSCAN, and Hierarchical Clustering.
 
 Evaluation and visualization of clusters.
 
-4. Analysis:
+Analysis:
 
 Interpretation of clusters based on ECG waveforms.
 
 Insights into potential subgroups in the dataset.
 
-# Tools and Technologies
+Tools and Technologies
 
-1. Python
+Python
 
-2. NumPy, Pandas
+NumPy, Pandas
 
-3. Matplotlib, Seaborn
+Matplotlib, Seaborn
 
-4. SciPy, Scikit-learn
+SciPy, Scikit-learn
 
-5. Jupyter Notebook
+Jupyter Notebook
 
-# Results & Insights
+Results & Insights
 
 Clustered ECG signals into distinct groups based on waveform characteristics.
 
@@ -81,7 +82,7 @@ Observed potential patterns suggesting the presence of abnormal heart rhythms in
 
 Demonstrated the applicability of unsupervised learning in the medical signal processing domain.
 
-#Challenges Faced
+Challenges Faced
 
 Handling high-dimensional ECG signal data.
 
@@ -89,7 +90,7 @@ Noise and variability in ECG waveforms.
 
 Selecting appropriate features for clustering.
 
-#Future Scope
+Future Scope
 
 Exploration of advanced clustering techniques.
 
@@ -124,12 +125,13 @@ jupyter notebook
 
 Run the notebooks in the notebooks/ directory.
 
-#References
+References
 
 PTB-XL Dataset: https://physionet.org/content/ptb-xl/1.0.3/
 
 Unsupervised Learning Algorithms: https://scikit-learn.org/stable/unsupervised_learning.html
 
-#License
+License
 
 This project is licensed under the MIT License.
+
