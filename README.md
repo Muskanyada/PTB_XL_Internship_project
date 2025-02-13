@@ -1,4 +1,4 @@
-PTB-XL Dataset Analysis Using Unsupervised Learning Algorithms
+# PTB-XL Dataset Analysis Using Unsupervised Learning Algorithms
 
 Project Overview
 
@@ -98,12 +98,6 @@ Incorporating time-series analysis methods.
 
 Combining unsupervised and semi-supervised learning for better diagnostic insights.
 
-Repository Structure
-
-├── data/                      # Raw and preprocessed data
-├── notebooks/                 # Jupyter notebooks with analysis
-├── results/                   # Visualizations and cluster results
-├── README.md                  # Project documentation
 
 How to Run the Project
 
